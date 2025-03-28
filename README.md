@@ -1,5 +1,5 @@
 # Hangman Game README
-
+.
 Welcome to Hangman, a fun word guessing game created with love by Priyansh!
 
 ## Game Link
